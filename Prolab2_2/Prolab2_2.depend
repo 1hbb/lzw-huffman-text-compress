@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1589289944 source:c:\users\harun burak bursa\documents\prolab2_2\main.cpp
+	<cstring>
+	<vector>
+	<iostream>
+	<iomanip>
+	<queue>
+	<fstream>
+	<string>
+	<map>
+	<fstream>
+	<iostream>
+	<iterator>
+	<vector>
+
