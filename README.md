@@ -43,6 +43,12 @@ will print the size.
 The compressed file will be written in "file_name.cmp" format in the project folder.
 <br/>
 
+# SCREENSHOTS #
+
+![Alt text](https://github.com/1hbb/lzw-huffman-text-compress/blob/master/screenshots/Resim1.png "1")
+
+
+
 # DEVELOPER #
 <br/>
 Harun Burak BURSA
