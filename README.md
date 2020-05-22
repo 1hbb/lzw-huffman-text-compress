@@ -1,44 +1,49 @@
-# lzw-huffman-text-compress
 
-# Deflate ve Lz77 algoritması #
+# HUFFMAN AND LZ77 ALGORITHM #
 
+<br/>
+<br/>
 
+### TEXT COMPRESS PROGRAM ###
+<br/>
 
-### Sıkıştırma Programı ###
+Programming Laboratory Spring Semester Project 2 Text Compress Project
 
-Programlama Laboratuarı Bahar Dönemi 2. Proje Sıkıştırma Algoritmaları ###
+<br/>
 
+### INTRODUCTION ###
+<br/>
 
-### Başlangıç ###
+Program "txt" files entered by user "Lzw" and "Huffman"
+compresses using algorithms.
+<br/>
 
-Program kullanıcı tarafından girilen txt dosyalarını Lz77 ve Deflate 
-algoritmaları kullanarak sıkıştırmaktadır.
+### INSTALLING AND USAGE ###
+<br/>
 
-### Kurulum ve Kullanım ###
+No setup required. "txt" file you want to compress
+make sure to put it in the same folder as the "main.c" file, that is, in the project folder.
 
-Program kurulum gerektirmez. Sıkıştırmak istediğiniz txt dosyasını
-"main.c" dosyası ile aynı klasöre yani proje klasörüne koyduğunuzdan emin olun.
+There is a test file named "text.txt" in the project folder.
 
-Proje klasöründe "text.txt" isimli test dosyası bulunmaktadır.
+When Program Executed: 
+<br/>
 
-Programı Çalıştırdığınızda: 
+1) First, you must enter a file name for "LZW" compression.
+You can enter "text.txt" to test with the test file.
+After this process, the program and the compression ratio of the original file
+will print the size.
+The compressed file will be written to the file named "output.txt" in the project folder.
+<br/>
 
+2) When the first process, "LZW" compression is finished, the program will ask you to "HUFFMAN" compression.
+will ask you to enter a filename. You can enter "text.txt" to test with the test file.
+After this process, the program and the compression ratio of the original file
+will print the size.
+The compressed file will be written in "file_name.cmp" format in the project folder.
+<br/>
 
-1) İlk olarak Lz77 sıkıştırması için dosya adı girmelisiniz.
-Test dosyası ile test etmek için "text.txt" girebilirsiniz.
-Bu işlemden sonra program sıkıştırma oranını ve orijinal dosya 
-boyutunu yazdıracaktır.
-Sıkıştırılan dosya ise proje klasöründe "output.txt" isimli dosyaya yazılacaktır
-
-
-2) İlk işlem yani Lz77 sıkıştırması bittiğinde program sizden Deflate sıkıştırması için 
-dosya adı girmenizi isteyecektir. Test dosyası ile test etmek için "text.txt" girebilirsiniz.
-Bu işlemden sonra program sıkıştırma oranını ve orijinal dosya 
-boyutunu yazdıracaktır.
-Sıkıştırılan dosya proje klasöründe "dosya_adi.cmp" formatında yazılacaktır.
-
-
-### Geliştiriciler ###
-
+### DEVELOPER ###
+<br/>
 Harun Burak BURSA
-Mustafa AKTAŞ
+<br/>
