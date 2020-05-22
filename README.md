@@ -4,21 +4,21 @@
 <br/>
 <br/>
 
-### TEXT COMPRESS PROGRAM ###
+# TEXT COMPRESS PROGRAM #
 <br/>
 
 Programming Laboratory Spring Semester Project 2 Text Compress Project
 
 <br/>
 
-### INTRODUCTION ###
+# INTRODUCTION #
 <br/>
 
 Program "txt" files entered by user "Lzw" and "Huffman"
 compresses using algorithms.
 <br/>
 
-### INSTALLING AND USAGE ###
+# INSTALLING AND USAGE #
 <br/>
 
 No setup required. "txt" file you want to compress
@@ -43,7 +43,7 @@ will print the size.
 The compressed file will be written in "file_name.cmp" format in the project folder.
 <br/>
 
-### DEVELOPER ###
+# DEVELOPER #
 <br/>
 Harun Burak BURSA
 <br/>
